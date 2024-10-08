@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingesmin.github.io/sitemap.html.gz
+Sitemap: https://ingesmin.github.io/app/sitemap.html.gz
+Sitemap: https://ingesmin.github.io/assets/sitemap.html.gz
+Sitemap: https://ingesmin.github.io/css/sitemap.html.gz
+Sitemap: https://ingesmin.github.io/includes/sitemap.html.gz
+Sitemap: https://ingesmin.github.io/item/sitemap.html.gz
+Sitemap: https://ingesmin.github.io/src/sitemap.html.gz
